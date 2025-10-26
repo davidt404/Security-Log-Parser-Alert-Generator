@@ -2,7 +2,7 @@
 
 Linux security baseline audit script that checks common security configurations and generates a report.
 
-## 🔍 What It Checks
+##  What It Checks
 - Failed login attempts  
 - Firewall status (UFW / iptables)  
 - Open listening ports  
@@ -12,7 +12,7 @@ Linux security baseline audit script that checks common security configurations 
 - SSH configuration (root login, password authentication)  
 - Running services  
 
-## ⚙️ Usage
+##  Usage
 ```bash
 chmod +x security-audit.sh
 sudo ./security-audit.sh
