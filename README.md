@@ -13,8 +13,11 @@ Running services
 
 Usage
 bashchmod +x security-audit.sh
+
 sudo ./security-audit.sh
+
 Generates a timestamped report: security_audit_YYYYMMDD_HHMMSS.txt
+
 Output
 
 [PASS] - Check passed
